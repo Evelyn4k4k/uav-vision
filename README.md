@@ -111,12 +111,6 @@ Estimates camera motion between frames.
 
 ## 📊 Results
 
-## Pipeline Diagram
-
-![Pipeline Diagram](outputs/pipeline_diagram.png)
-
----
-
 ### Edge Detection
 
 ![Edge Detection](outputs/edge_detection_result.png)
@@ -190,10 +184,10 @@ python -m src.vo.mini_visual_odometry
 
 ## 🚁 Application Scenarios
 
-* UAV navigation
-* Visual SLAM
-* Autonomous inspection
-* Motion estimation
+* UAV navigation & location
+* Drone visual perception
+* SLAM front-end prototyping
+* Robotics vision experiments
 
 ---
 
@@ -208,7 +202,11 @@ python -m src.vo.mini_visual_odometry
 
 ## 👨‍💻 Author
 
-WANG Qianlin
-UAV Systems
+Qianlin Wang
+MSc UAV Systems/Computer Vision
 
 ---
+
+⭐ Notes
+
+This project is designed as a learning + portfolio project for UAV perception and robotics vision.
