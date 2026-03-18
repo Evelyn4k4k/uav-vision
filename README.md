@@ -1,3 +1,10 @@
+# UAV Vision Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-UAV%20Vision-orange)
+
 # UAV Vision Pipeline (CV Demo for UAV Applications)
 
 A modular Computer Vision pipeline simulating core components of UAV perception systems, including edge detection, feature extraction, feature matching, optical flow tracking, and visual odometry.
@@ -21,6 +28,12 @@ Optical Flow Tracking
     ↓
 Visual Odometry (Pose Estimation)
 ```
+## 🎬 Demo
+> End-to-end UAV perception pipeline demo
+
+![Demo](outputs/demo.gif)
+
+
 ## Pipeline Diagram
 
 ![Pipeline Diagram](outputs/pipeline_diagram.png)
