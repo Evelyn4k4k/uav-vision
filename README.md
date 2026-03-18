@@ -29,7 +29,10 @@ Visual Odometry (Pose Estimation)
 ```
 ## 🎬 Demo
 > End-to-end UAV perception pipeline demo
+>
+> 
 ![Demo](outputs/demo.gif)
+
 
 ## Pipeline Diagram
 
